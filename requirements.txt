@@ -2,3 +2,4 @@ gradio>=5.0.0
 boto3>=1.35.0
 botocore>=1.35.0
 python-dotenv>=1.0.1
+gradio[mcp]
